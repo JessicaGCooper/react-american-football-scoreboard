@@ -4,10 +4,6 @@ import "./App.css";
 const BottomRow = () => {
   return (
     <div className="bottomRow">
-      <div className="down">
-        <h3 className="down__title">Down</h3>
-        <div className="down__value">3</div>
-      </div>
       <div className="toGo">
         <h3 className="toGo__title">To Go</h3>
         <div className="toGo__value">7</div>
