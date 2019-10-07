@@ -35,9 +35,9 @@ function App() {
           </div>
         </div>
         <div className="bottomRow">
-          <div className="down">
-            <h3 className="down__title">Half</h3>
-            <div className="down__value">{half}</div>
+          <div className="quarter">
+            <h3 className="quarter__title">Half</h3>
+            <div className="quarter__value">{half}</div>
           </div>
         </div>
         <BottomRow />
